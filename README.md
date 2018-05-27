@@ -1,4 +1,4 @@
-                               *   Front-end Engineering Assignment   *
+                               *   EXPANSES MANAGEMENT SYSTEM   *
 ******************************************************************************************************************************			       
 				  
 INSTALLTION OF SOFTWARE:-
